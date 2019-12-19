@@ -1,0 +1,60 @@
+{
+    "name": "EveryBlock",
+    "description": "EveryBlock is the leading Web site for neighborhood discussions and block-level news, including the latest news stories, crime reports, real estate listings and business reviews.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/589-everyblock.jpg",
+    "tags": [
+        "api provider",
+        "content",
+        "content discovery",
+        "have api",
+        "local",
+        "marketplaces",
+        "news"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/everyblock\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "EveryBlock",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/589-everyblock.jpg",
+            "humanURL": "http:\/\/www.everyblock.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.everyblock.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.everyblock.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/everyblock"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/everyblock"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/everyblock"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/everyblock"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.everyblock.com"
+        }
+    ]
+}
